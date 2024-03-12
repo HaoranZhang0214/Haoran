@@ -1,0 +1,9 @@
+信息: 正在处理符号 'J1:Connector_FFC-FPC:TE_2-84952-1_1x21-1MP_P1.0mm_Horizontal'。
+信息: 正在处理符号 'J2:Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical'。
+信息: 正在处理符号 'J3:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'。
+添加 J1 (封装 'Connector_FFC-FPC:TE_2-84952-1_1x21-1MP_P1.0mm_Horizontal')。
+添加 J2 (封装 'Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical')。
+添加 J3 (封装 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical')。
+
+
+信息: 总计警告: 0, 错误: 0。
